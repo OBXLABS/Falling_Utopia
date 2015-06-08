@@ -1,0 +1,13 @@
+https://developer.apple.com/library/ios/technotes/tn2151/_index.html
+
+https://developer.apple.com/library/ios/qa/qa1764/_index.html
+
+https://developer.apple.com/library/mac/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html#//apple_ref/doc/uid/TP40012582-CH31-SW1
+
+http://stackoverflow.com/questions/22541868/why-is-the-app-store-and-ad-hoc-button-greyed-out-when-i-try-to-create-a-distrib
+
+http://stackoverflow.com/questions/6034495/apple-enterprise-program-distribution-questions
+
+http://jeffreysambells.com/2014/01/14/using-breakpoints-in-xcode
+
+http://stackoverflow.com/questions/3656391/whats-the-dsym-and-how-to-use-it-ios-sdk
