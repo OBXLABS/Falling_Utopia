@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MapScreenScripts/metroScript.cs">
+    <Files>
+      <File FileName="Assets/Script/MapScreenScripts/metroSpriteScript.cs" Line="21" Column="41" />
+      <File FileName="Assets/Script/MapScreenScripts/citySpriteScript.cs" Line="14" Column="59" />
+      <File FileName="Assets/Script/MapScreenScripts/cityScript.cs" Line="13" Column="2" />
+      <File FileName="Assets/Script/MapScreenScripts/villageScript.cs" Line="14" Column="4" />
+      <File FileName="Assets/Script/MapScreenScripts/villageSpriteScript.cs" Line="25" Column="82" />
+      <File FileName="Assets/Script/MapScreenScripts/metroScript.cs" Line="14" Column="2" />
+      <File FileName="Assets/Script/MapScreenScripts/endScript.cs" Line="25" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

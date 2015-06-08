@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MapScreenScripts\villageSpriteScript.cs">
+    <Files>
+      <File FileName="Assets\Script\LevelScripts\AmmoReelScript.cs" Line="18" Column="26" />
+      <File FileName="Assets\Script\LevelScripts\AmmoSpawnManager.cs" Line="19" Column="14" />
+      <File FileName="Assets\Script\LevelScripts\AnimatorControllerLV1.cs" Line="4" Column="106" />
+      <File FileName="Assets\Script\LevelScripts\BabyMovement.cs" Line="13" Column="32" />
+      <File FileName="Assets\Script\LevelScripts\BulletBehaviour.cs" Line="87" Column="69" />
+      <File FileName="Assets\Script\LevelScripts\BulletCollisionToFatGuy.cs" Line="19" Column="59" />
+      <File FileName="Assets\Script\LevelScripts\BulletCollisionToPerson.cs" Line="4" Column="80" />
+      <File FileName="Assets\Script\LevelScripts\CanonBehaviour.cs" Line="7" Column="20" />
+      <File FileName="Assets\Script\LevelScripts\DeathManager.cs" Line="28" Column="69" />
+      <File FileName="Assets\Script\LevelScripts\DestroyOffScreen.cs" Line="13" Column="64" />
+      <File FileName="Assets\Script\LevelScripts\Fall.cs" Line="44" Column="3" />
+      <File FileName="Assets\Script\LevelScripts\GhostBehaviour.cs" Line="46" Column="25" />
+      <File FileName="Assets\Script\LevelScripts\KillPerson.cs" Line="29" Column="41" />
+      <File FileName="Assets\Script\LevelScripts\LevelButtonManager.cs" Line="143" Column="27" />
+      <File FileName="Assets\Script\LevelScripts\MoveIsland.cs" Line="60" Column="35" />
+      <File FileName="Assets\Script\LevelScripts\OptionGoToMapButton.cs" Line="11" Column="28" />
+      <File FileName="Assets\Script\LevelScripts\OptionReplayButton.cs" Line="12" Column="23" />
+      <File FileName="Assets\Script\LevelScripts\OptionResumeButton.cs" Line="19" Column="40" />
+      <File FileName="Assets\Script\LevelScripts\PauseMenu.cs" Line="11" Column="69" />
+      <File FileName="Assets\Script\LevelScripts\PeopleManager.cs" Line="34" Column="63" />
+      <File FileName="Assets\Script\LevelScripts\PlaySound.cs" Line="13" Column="76" />
+      <File FileName="Assets\Script\LevelScripts\ReloadScript.cs" Line="27" Column="31" />
+      <File FileName="Assets\Script\LevelScripts\RescueManager.cs" Line="37" Column="75" />
+      <File FileName="Assets\Script\LevelScripts\SavedFadeOut.cs" Line="26" Column="3" />
+      <File FileName="Assets\Script\LevelScripts\SpawnManager.cs" Line="42" Column="58" />
+      <File FileName="Assets\Script\LevelScripts\TutorialScript.cs" Line="89" Column="43" />
+      <File FileName="Assets\Script\HomeScreenScripts\goToMapScript.cs" Line="4" Column="45" />
+      <File FileName="Assets\Script\HomeScreenScripts\UIManagerScript.cs" Line="39" Column="37" />
+      <File FileName="Assets\Script\MapScreenScripts\AudioContinue.cs" Line="32" Column="116" />
+      <File FileName="Assets\Script\MapScreenScripts\cityScript.cs" Line="43" Column="66" />
+      <File FileName="Assets\Script\MapScreenScripts\villageScript.cs" Line="20" Column="32" />
+      <File FileName="Assets\Script\MapScreenScripts\citySpriteScript.cs" Line="5" Column="99" />
+      <File FileName="Assets\Script\MapScreenScripts\mapScript.cs" Line="21" Column="63" />
+      <File FileName="Assets\Script\MapScreenScripts\metroScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MapScreenScripts\metroSpriteScript.cs" Line="8" Column="65" />
+      <File FileName="Assets\Script\MapScreenScripts\villageSpriteScript.cs" Line="8" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
