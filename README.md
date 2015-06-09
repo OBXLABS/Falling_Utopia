@@ -8,6 +8,6 @@ Falling Utopia is a one-player game that was originally created within a span of
 The idea of the game was inspired by the movies Titanic and Castle in the Sky. If there was a hero who could have saved everyone, then what would have happened? The concept of the game is to save people leaping to their deaths from a floating city. The main character, being the user will need to maneuver a cannon and shoot out parachutes towards the people falling from the floating city. As soon as the parachute hits the falling character, it will activate the parachute and the character will slowly fall to safety. There are 3 levels in this game, as each level is passed, the fire in the city will grow fiercer signifying the next level and the difficulty will increase. At each new level, new types of falling people with more complex fall mechanics will be introduced to keep the player on his toes and give variety to the gameplay.
 
 *NOTE* Make sure to unzip the libiPhone-lib.a.zip inside the libraries folder. 
-FallingUtopiaApp>>Libraries>>libiPhone-lib.a.zip 
+FallingUtopiaApp>>Libraries>>libiPhone-lib.a.zip <br>
 
 For more information visit http://fallingutopia.comlu.com/
